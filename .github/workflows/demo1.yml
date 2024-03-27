@@ -8,6 +8,7 @@ on:
     branches:
       - master
     paths:
+      - '.github/workflows/demo1.yml'
       - 'src/**'
 jobs:
   deploy:
